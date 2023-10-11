@@ -1,0 +1,6 @@
+export {default as img_disappointed} from './disappointed.svg'
+export {default as img_dissatisfied} from './dissatisfied.svg'
+export {default as img_friendly} from './friendly.svg'
+export {default as img_sad} from './sad.svg'
+export {default as img_smiley} from './smiley.svg'
+export {default as img_surprised} from './surprised.svg'

@@ -1,0 +1,32 @@
+
+.container{
+    width: 164px;
+    height: 300px;
+    overflow: hidden;
+}
+
+.containerVer{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+.imgProd{
+    border-radius: 8px;
+}
+
+.textPrice{
+    font-size: 16px;
+    font-weight: '500';
+    max-lines: 1;
+}
+
+.textDescription{
+    font-size: 14px;
+    text-align: start;
+    color: #9E9E9E;
+    max-lines: 2;
+}

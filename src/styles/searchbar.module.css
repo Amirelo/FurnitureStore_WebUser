@@ -1,0 +1,17 @@
+.container{
+    width: 36%;
+    height: 40px;
+    display: flex;
+    align-items: center;
+}
+
+.input{
+    width: 100%;
+    height: 100%;
+    padding-left: 10%;
+}
+
+.startIcon{
+    position: absolute;
+    margin-left:1%;
+}
